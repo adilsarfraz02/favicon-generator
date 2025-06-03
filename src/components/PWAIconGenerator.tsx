@@ -1,7 +1,6 @@
-
 import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Upload, Download, Sparkles, Zap } from "lucide-react";
+import { Download, Sparkles, Zap } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { IconPreview } from "./IconPreview";
